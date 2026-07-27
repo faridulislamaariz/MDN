@@ -26,11 +26,11 @@ http://103.163.117.83:8063/ch7/tracks-v1/index.fmp4.m3u8
 #EXTINF:-1,STAR JALSA
 http://103.163.117.83:8063/ch8/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1,
+#EXTINF:-1,Aa
 http://103.163.117.83:8063/ch9/tracks-v1/index.fmp4.m3u8
 
-#EXTINF:-1, Plus
-http://103.163.117.83:8063/ch10/tracks-a1/index.fmp4.m3u8
+#EXTINF:-1,Star Plus
+http://103.163.117.83:8063/ch10/index.fmp4.m3u8
 
 #EXTINF:-1,&Pictures hd
 http://103.163.117.83:8063/ch11/index.fmp4.m3u8
